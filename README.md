@@ -55,10 +55,10 @@ npm install
 export const BASE_URL = 'http://localhost:3000';
 
 // สำหรับอุปกรณ์จริง (แทนที่ด้วย IP ของคอมพิวเตอร์)
-// export const BASE_URL = 'http://192.168.1.100:3000';
+// export const BASE_URL = 'http://xxx.xxx.xxx.xxx:3000';
 
 // สำหรับ Android emulator
-// export const BASE_URL = 'http://10.0.2.2:3000';
+// export const BASE_URL = 'http://xxx.xxx.xxx.xxx:3000';
 ```
 
 ### 4. เริ่มเซิร์ฟเวอร์พัฒนา
